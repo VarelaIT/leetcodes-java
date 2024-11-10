@@ -5,9 +5,9 @@ import static com.varelait.makeStringGreat.MakeStringGreat.makeGood;
 public class App {
 
     public static void main(String[] args) {
-        if(args != null && args.length > 0){
-            System.out.println(makeGood("leEeetcode"));
-        }
+        //System.out.println("begins");
+        System.out.println(makeGood("leEeetcode"));
+        System.out.println(makeGood("abBAcC"));
     }
 
 }
